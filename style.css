@@ -1,5 +1,6 @@
 body{
 background-color: #FFFACD;
+font: chalkduster;
 }
 h1{
   font-size: 48px;
@@ -8,7 +9,7 @@ h1{
   background-color: #CD5C5C;
 }
 p{
-  font-size: 32px;
+  font-size: 30px;
   text-align: center;
   color: #CD5C5C;
 }
@@ -18,7 +19,7 @@ h2{
   text-align: center;
 }
 
-img{
+#Header Logo{
   width: 1230px;
   height: 285px;
 }
