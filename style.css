@@ -24,6 +24,8 @@ h2{
   height: 285px;
 }
 #group{
-  width: 987px;
-  height: 514px;
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
