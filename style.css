@@ -6,23 +6,23 @@ header{
   text-align: center;
 }
 h1{
-  font-size: 36px;
+  font-size: 48px;
   padding: 15px;
-  color: black;
+  color: white;
   background-color: #CD5C5C;
 }
 p{
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
   color: #CD5C5C;
 }
 h2{
-  font-size: 24px;
+  font-size: 32px;
   color: black;
   text-align: center;
 }
-ul{
-  font-size 18px;
-  color: black;
+h3{
+  font-size: 24px;
   text-align: center;
+  color: black;
 }
