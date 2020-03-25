@@ -2,3 +2,12 @@ body{
 background-color: #FFFACD;
 color: black;
 }
+header{
+  text-align: center;
+}
+h1{
+  font-size: 36px;
+  color: black;
+  background-color; #CD5C5C;
+}
+  
